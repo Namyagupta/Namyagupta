@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namya Aankur Gupta
-- 👀 I’m interested in learning new languages like HTML, CSS, Java Script
-- 💞️ I’m looking to collaborate on some front end web development projects!
+- 👀 I’m interested in learning languages like Python, HTML, CSS. 
+- 💞️ I’m looking to collaborate on some Data Science projects!
 - 📫 How to reach me : 
   Connect with me on LinkedIn: https://www.linkedin.com/in/namya-aankur-gupta/
 
