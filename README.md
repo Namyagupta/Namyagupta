@@ -1,8 +1,8 @@
 # Hi, I'm Namya! 👋
 
 ## 🚀 About Me
-- 👀 I’m interested in learning languages like Python, Solidity, HTML, CSS. 
-- 💞️ I’m looking to collaborate on some Blockchain and Data Science projects!
+- 👀 I’m learning languages like Python, Solidity, HTML, CSS. 
+- 💞️ I’m looking to collaborate on Blockchain and Data Science projects!
 - 📫 How to reach me : 
   Connect with me on LinkedIn: https://www.linkedin.com/in/namya-aankur-gupta/
   
