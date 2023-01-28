@@ -21,11 +21,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 
+<img align="right" width="280" height="280" src="https://user-images.githubusercontent.com/65950853/215243075-8e08d531-fce2-4aa4-82f4-cdfdb0f20077.gif">
+
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 📝 I regularly write articles on [Machine Learning and Blockchain](Machine Learning and Blockchain)
+- 📝 I regularly write articles on **Machine Learning and Blockchain**
 
 - 📫 How to reach me:  **Connect with me on LinkedIn: https://www.linkedin.com/in/namya-aankur-gupta/**
 
