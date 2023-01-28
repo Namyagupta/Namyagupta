@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Namyagupta&theme=radical&hide=issues,contribs,prs&count_private=true&show_icons=true" alt="namyagupta" /></p>
 
 ### Blog Posts
-  
+
 <p><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@namyagupta2001/0" alt="namyagupta" /></p>
 <p><img align="left" src="https://github-readme-medium-recent-article.vercel.app/medium/@namyagupta2001/1" alt="namyagupta" /></p>
 
